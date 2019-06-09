@@ -1,0 +1,39 @@
+.image{
+    width:100%;
+    height:200px;
+}
+
+p
+{
+    text-align: left;
+}
+.image1
+{
+    width:100%;
+    height:200px;
+}
+
+.image2
+{
+    width:30%;
+    height:250px;
+
+}
+
+.welcome
+{
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bolder;
+    
+}
+
+.mr
+{
+    font-family: cursive;
+    font-weight: bolder;
+    font-style: oblique;
+    color: firebrick;
+    
+    
+}
